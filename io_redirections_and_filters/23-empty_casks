@@ -1,2 +1,2 @@
 #!/bin/bash
-find -depth -type fd -empty | sort
+find ~/lists -empty | sort
