@@ -1,2 +1,2 @@
 #!/bin/bash
-alias I_am_only_ls_alias=ls -rm *
+alias =ls I_am_only_ls_alias=-rm *
